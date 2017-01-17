@@ -1,0 +1,29 @@
+Keamanan Jaringan – Radius
+
+1. Latar Belakang
+
+Dalam Penjelasan dalam Keamanan Jaringan kali ini akan dibahas tentang radius. Untuk lebih jelasnya akan dibahas sebagai berikut.
+
+1. Penjelasan
+
+RADIUS (Remote Authentication Dial-In User Service) adalah sebuah protokol keamanan komputer yang digunakan untuk melakukan autentikasi, otorisasi, dan pendaftaran akun pengguna secara terpusat untuk mengakses jaringan. Radius diterapkan dalam jaringan dengan model client-server.
+
+Radius server biasanya di implementasikan pada OS Linux atau Windows NT, Free Radius salah satu yang populer untuk OS linux.
+
+**MACAM-MACAM SOFTWARE RADIUS SERVER**
+
+- . **FreeRADIUS SERVER dan CoovaChili**
+- . **DaloRADIUS**
+- . **Radiator Server RADIUS**
+- . **Aradial RADIUS Server**
+
+1. Penutup
+
+1. a)Kesimpulan
+
+RADIUS (Remote Authentication Dial-In User Service) adalah sebuah protokol keamanan komputer yang digunakan untuk melakukan autentikasi, otorisasi, dan pendaftaran akun pengguna secara terpusat untuk mengakses jaringan. Radius diterapkan dalam jaringan dengan model client-server.
+
+1. b)Saran
+
+Untuk memahami lebih lanjut tentang Keamanan Jaringan Vulnerability alangkah lebih baiknya anda mempelajarinya di buku-buku yang terpercaya.
+
